@@ -2,13 +2,13 @@
 
 Summary:	Graphics related functions for Bioconductor
 Name:		R-%{packname}
-Version:	1.36.0
+Version:	1.40.0
 Release:	1
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	94a3a993dcbc8facf2a77fb6e9753f50
-URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+# Source0-md5:	6c8bead575f194a4331303b6d3a21bf4
+URL:		http://bioconductor.org/packages/release/bioc/html/geneplotter.html
 BuildRequires:	R
 BuildRequires:	R-annotate
 BuildRequires:	R-AnnotationDbi
